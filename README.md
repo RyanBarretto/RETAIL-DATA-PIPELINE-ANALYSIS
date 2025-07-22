@@ -1,4 +1,4 @@
-📈 SALES RETAIL ANALYSIS PROJECT
+📈 Retail Sales Performance Analysis
 
 📌 Objective
 To perform data extraction, cleaning, transformation, and analysis using Python and SQL to uncover revenue trends and key metrics for Sales Retail Revenue Management team.
